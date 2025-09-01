@@ -1,3 +1,6 @@
+Right now only a dutch version of the app is available. English will follow soon.
+
+
 # User Guide – Wi-Fi Passive Monitor (ESSID + Band Filter)
 
 ---
