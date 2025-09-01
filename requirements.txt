@@ -1,0 +1,20 @@
+#DONT use this file to install the packages! This is just a listing!
+
+
+
+
+#apt packages
+
+aircrack-ng
+iw
+iproute2
+network-manager
+hcxtools
+python3
+python3-tk
+python3-pip
+libnotify-bin
+
+# python requirements
+
+inotify_simple>=1.3
